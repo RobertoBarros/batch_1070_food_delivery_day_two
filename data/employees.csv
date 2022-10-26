@@ -1,0 +1,4 @@
+id,username,password,role
+1,paul,e5e9fa1ba31ecd1ae84f75caaa474f3a663f05f4,manager
+2,john,e5e9fa1ba31ecd1ae84f75caaa474f3a663f05f4,rider
+3,ringo,e5e9fa1ba31ecd1ae84f75caaa474f3a663f05f4,rider
